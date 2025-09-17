@@ -22,3 +22,30 @@ and strive to write efficient code.
 -  VS Code
 -  Visual Studio 2022
 ```
+
+### Code Example
+```
+function digitalRoot(n) {
+  while(n>=10)
+  {
+    let sum=0;
+    let num=n;
+    while (num>0)
+      {
+        sum+=num%10;
+        num=Math.floor(num/10);
+      }
+    n=sum;
+  }
+  return n;
+}
+```
+
+### Work Experience
+> I'm a begginer front-end dedveloper.
+
+### Education
+> The student of the *Academy of Public Administration under the President of the Republic of Belarus*
+
+### English Language
+> B1-B2
