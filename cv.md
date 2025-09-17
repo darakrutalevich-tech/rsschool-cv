@@ -1,7 +1,7 @@
 # Darya Krutalevich
 
 ## Contact Information
-*   *Pnohe* (44)78-34-303 (Belarus)
+*   *Pnohe* (44)78-34-202 (Belarus)
 *   *Email* darakrutalevich@gmail.com
 *   *Discord* driaahyun#6980
 *   *GitHub* github.com/darakrutalevich-tech
